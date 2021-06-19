@@ -1,0 +1,37 @@
+{
+  "height": 4,
+  "flasks": [
+    [
+      "Green",
+      "Orange",
+      "Blue",
+      "Pink"
+    ],
+    [
+      "Orange",
+      "Green",
+      "Blue",
+      "Pink"
+    ],
+    [
+      "Pink",
+      "Red",
+      "Orange",
+      "Red"
+    ],
+    [
+      "Orange",
+      "Pink",
+      "Red",
+      "Blue"
+    ],
+    [
+      "Green",
+      "Green",
+      "Red",
+      "Blue"
+    ],
+    [],
+    []
+  ]
+}
